@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": "./scripts/dev.sh"
+  },
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "deno.ns"]
+  }
+}
